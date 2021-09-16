@@ -1,7 +1,7 @@
 - # PyTorch学习资源汇总
 
 
-  【导读】之前的文章中，我们总结了适合新手快速入门的[Tensorflow学习资源汇总](https://link.zhihu.com/?target=https%3A//mp.weixin.qq.com/s%3F__biz%3DMzAxMjMwODMyMQ%3D%3D%26mid%3D2456336157%26idx%3D1%26sn%3D109b62b0b2f153f2ae1d7416f90cdc13%26scene%3D21%23wechat_redirect)，今天我们将为大家介绍另一个深度学习框架PyTorch的学习资源，非常适合新手学习，建议大家收藏。
+  【导读】之前的文章中，我们总结了适合新手快速入门的[Tensorflow学习资源汇总](https://github.com/Gabrielle-OyO/Tensorflow/blob/main/Tensorflow%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90%E6%B1%87%E6%80%BB.md)，今天我们将为大家介绍另一个深度学习框架PyTorch的学习资源，非常适合新手学习，建议大家收藏。
 
   **目录：**
 
